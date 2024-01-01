@@ -1,1 +1,1 @@
-export const URL = "http://localhost:3001"
+export const URL = "https://social-media-backend-fes3.onrender.com"
