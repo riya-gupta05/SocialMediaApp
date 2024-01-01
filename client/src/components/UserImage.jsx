@@ -1,5 +1,5 @@
 import { Box } from "@mui/material";
-import {URL} from "baseURL";
+import {URL} from "baseUrl";
 
 const UserImage = ({ image, size = "60px" }) => {
   return (
